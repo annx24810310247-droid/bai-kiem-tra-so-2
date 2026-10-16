@@ -22,4 +22,4 @@ nguyen xuan an 24810310247
 ### Ảnh màn hình 
 ###bai 1
 ### 1. Ảnh màn hình Giao diện chính
-![Giao diện chính](./screenshots/1.jpg)
+![Giao diện chính](./screenshots/main_ui1.png)
