@@ -20,3 +20,6 @@ nguyen xuan an 24810310247
 - Đồng bộ Realtime Safe Cross-Thread bằng `Control.InvokeRequired` và `this.Invoke()`.
 
 ### Ảnh màn hình 
+###bai 1
+### 1. Ảnh màn hình Giao diện chính
+![Giao diện chính](./screenshots/1.jpg)
